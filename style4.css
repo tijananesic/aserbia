@@ -1,0 +1,58 @@
+
+#kontaktText{
+    margin-top: 5%;
+    text-align: center;
+}
+
+#forma{
+    margin-top: 5%;
+    
+    margin-left: 15%;
+}
+
+#formaKomentar{
+    margin-top: 2%;
+    margin-left: 15%;
+}
+
+#komentar{
+    width: 605px;
+    height: 100px;
+}
+
+#formaDugme{
+    margin-bottom: 2%;
+    margin-left: 70%;
+}
+
+#Posalji{
+    cursor: pointer;
+}
+
+#checkbox{
+    margin-left: 2%;
+}
+
+#greska{
+    color: red;
+    display: none;
+}
+
+.container{
+    height: 900px;
+    margin-left:14%;
+    margin-top: 5%;
+    color: aliceblue;
+}
+
+.col-3{
+    height: 900px;
+}
+
+@media only screen and (max-width: 750px){
+
+    .container{
+        width: 20px;
+        margin-left: 0px;
+    }
+}

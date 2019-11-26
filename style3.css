@@ -1,0 +1,21 @@
+.container2{
+    height: 50%;
+    width: 66%;
+    margin-left: 16.5%;
+    margin-right: 16.5%;
+    margin-bottom: 0.5%;
+    padding-top: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+.col-12{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+@media only screen and (max-width: 750px){
+  .col-12{
+    margin-left: 5px;
+  }
+}
